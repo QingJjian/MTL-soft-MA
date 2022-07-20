@@ -1,0 +1,1167 @@
+epoch 1
+Train Loss: 0.278529, Acc: 0.212867, Dloss: -0.024185, Eloss: 0.026192, Gloss: -0.002007
+Test Loss: 1.763539, Acc: 0.245951
+topic: tensor([0.1976, 0.2009, 0.2076, 0.1963, 0.1976], device='cuda:0')
+Saving model ...
+epoch 2
+Train Loss: 0.266316, Acc: 0.334392, Dloss: -0.017422, Eloss: 0.019430, Gloss: -0.002008
+Test Loss: 1.749708, Acc: 0.265747
+topic: tensor([0.1980, 0.1997, 0.2070, 0.1957, 0.1997], device='cuda:0')
+Saving model ...
+epoch 3
+Train Loss: 0.260927, Acc: 0.380064, Dloss: -0.012215, Eloss: 0.014224, Gloss: -0.002009
+Test Loss: 1.735833, Acc: 0.280744
+topic: tensor([0.1978, 0.1991, 0.2074, 0.1959, 0.1998], device='cuda:0')
+Saving model ...
+epoch 4
+Train Loss: 0.260115, Acc: 0.381255, Dloss: -0.008530, Eloss: 0.010541, Gloss: -0.002011
+Test Loss: 1.768007, Acc: 0.245951
+topic: tensor([0.1969, 0.2009, 0.2067, 0.1969, 0.1986], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 5
+Train Loss: 0.257842, Acc: 0.395552, Dloss: -0.006277, Eloss: 0.008289, Gloss: -0.002012
+Test Loss: 1.705973, Acc: 0.320336
+topic: tensor([0.1981, 0.2003, 0.2065, 0.1962, 0.1990], device='cuda:0')
+Saving model ...
+epoch 6
+Train Loss: 0.254173, Acc: 0.431295, Dloss: -0.004937, Eloss: 0.006950, Gloss: -0.002013
+Test Loss: 1.689742, Acc: 0.344931
+topic: tensor([0.1986, 0.1989, 0.2073, 0.1962, 0.1989], device='cuda:0')
+Saving model ...
+epoch 7
+Train Loss: 0.253826, Acc: 0.432883, Dloss: -0.003883, Eloss: 0.005897, Gloss: -0.002014
+Test Loss: 1.699101, Acc: 0.328734
+topic: tensor([0.1987, 0.2009, 0.2061, 0.1958, 0.1985], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 8
+Train Loss: 0.253706, Acc: 0.432089, Dloss: -0.002957, Eloss: 0.004973, Gloss: -0.002016
+Test Loss: 1.685714, Acc: 0.337732
+topic: tensor([0.1985, 0.1998, 0.2066, 0.1969, 0.1982], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 9
+Train Loss: 0.254428, Acc: 0.431692, Dloss: -0.001110, Eloss: 0.003127, Gloss: -0.002017
+Test Loss: 1.766065, Acc: 0.239952
+topic: tensor([0.1994, 0.1995, 0.2064, 0.1968, 0.1980], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 10
+Train Loss: 0.253350, Acc: 0.432486, Dloss: 0.001723, Eloss: 0.000296, Gloss: -0.002019
+Test Loss: 1.665594, Acc: 0.374325
+topic: tensor([0.1986, 0.2003, 0.2064, 0.1967, 0.1980], device='cuda:0')
+Saving model ...
+epoch 11
+Train Loss: 0.252225, Acc: 0.450357, Dloss: 0.004252, Eloss: -0.002232, Gloss: -0.002020
+Test Loss: 1.683895, Acc: 0.347930
+topic: tensor([0.1980, 0.2009, 0.2064, 0.1970, 0.1977], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 12
+Train Loss: 0.248992, Acc: 0.474583, Dloss: 0.008876, Eloss: -0.006854, Gloss: -0.002022
+Test Loss: 1.694150, Acc: 0.328734
+topic: tensor([0.1997, 0.2003, 0.2050, 0.1977, 0.1973], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 13
+Train Loss: 0.252062, Acc: 0.444003, Dloss: 0.010525, Eloss: -0.008502, Gloss: -0.002023
+Test Loss: 1.673621, Acc: 0.359928
+topic: tensor([0.1998, 0.2000, 0.2065, 0.1966, 0.1971], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 14
+Train Loss: 0.250096, Acc: 0.463066, Dloss: 0.012439, Eloss: -0.010415, Gloss: -0.002024
+Test Loss: 1.656661, Acc: 0.388122
+topic: tensor([0.1988, 0.1996, 0.2058, 0.1975, 0.1984], device='cuda:0')
+Saving model ...
+epoch 15
+Train Loss: 0.250306, Acc: 0.460286, Dloss: 0.012589, Eloss: -0.010563, Gloss: -0.002026
+Test Loss: 1.659849, Acc: 0.379724
+topic: tensor([0.1991, 0.1995, 0.2062, 0.1976, 0.1977], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 16
+Train Loss: 0.249150, Acc: 0.470214, Dloss: 0.012378, Eloss: -0.010350, Gloss: -0.002027
+Test Loss: 1.672479, Acc: 0.362328
+topic: tensor([0.1988, 0.1991, 0.2062, 0.1979, 0.1980], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 17
+Train Loss: 0.248190, Acc: 0.475377, Dloss: 0.012261, Eloss: -0.010233, Gloss: -0.002028
+Test Loss: 1.675771, Acc: 0.353929
+topic: tensor([0.1997, 0.1994, 0.2056, 0.1975, 0.1978], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 18
+Train Loss: 0.248803, Acc: 0.472994, Dloss: 0.012560, Eloss: -0.010531, Gloss: -0.002030
+Test Loss: 1.713733, Acc: 0.305339
+topic: tensor([0.2001, 0.1998, 0.2050, 0.1976, 0.1975], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 19
+Train Loss: 0.248494, Acc: 0.477760, Dloss: 0.013554, Eloss: -0.011522, Gloss: -0.002031
+Test Loss: 1.673474, Acc: 0.356329
+topic: tensor([0.1998, 0.1993, 0.2053, 0.1982, 0.1974], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 20
+Train Loss: 0.248779, Acc: 0.472994, Dloss: 0.013367, Eloss: -0.011334, Gloss: -0.002033
+Test Loss: 1.680759, Acc: 0.350930
+topic: tensor([0.1998, 0.1988, 0.2059, 0.1980, 0.1976], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 21
+Train Loss: 0.247810, Acc: 0.483320, Dloss: 0.012838, Eloss: -0.010804, Gloss: -0.002034
+Test Loss: 1.684728, Acc: 0.346131
+topic: tensor([0.2006, 0.1992, 0.2053, 0.1976, 0.1973], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 22
+Train Loss: 0.248814, Acc: 0.472994, Dloss: 0.013452, Eloss: -0.011416, Gloss: -0.002036
+Test Loss: 1.737035, Acc: 0.281944
+topic: tensor([0.1998, 0.1995, 0.2060, 0.1969, 0.1978], device='cuda:0')
+EarlyStopping counter: 8 out of 50
+epoch 23
+Train Loss: 0.246859, Acc: 0.490071, Dloss: 0.012592, Eloss: -0.010555, Gloss: -0.002037
+Test Loss: 1.657977, Acc: 0.384523
+topic: tensor([0.1998, 0.1992, 0.2060, 0.1970, 0.1980], device='cuda:0')
+EarlyStopping counter: 9 out of 50
+epoch 24
+Train Loss: 0.246242, Acc: 0.496029, Dloss: 0.009537, Eloss: -0.007499, Gloss: -0.002038
+Test Loss: 1.683116, Acc: 0.348530
+topic: tensor([0.1996, 0.1995, 0.2053, 0.1979, 0.1977], device='cuda:0')
+EarlyStopping counter: 10 out of 50
+epoch 25
+Train Loss: 0.246433, Acc: 0.492057, Dloss: 0.009160, Eloss: -0.007121, Gloss: -0.002039
+Test Loss: 1.650782, Acc: 0.389922
+topic: tensor([0.1997, 0.1991, 0.2054, 0.1978, 0.1980], device='cuda:0')
+Saving model ...
+epoch 26
+Train Loss: 0.245732, Acc: 0.501191, Dloss: 0.009285, Eloss: -0.007244, Gloss: -0.002041
+Test Loss: 1.687225, Acc: 0.358728
+topic: tensor([0.1997, 0.1995, 0.2056, 0.1978, 0.1974], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 27
+Train Loss: 0.247071, Acc: 0.488880, Dloss: 0.009449, Eloss: -0.007407, Gloss: -0.002043
+Test Loss: 1.665487, Acc: 0.373125
+topic: tensor([0.1997, 0.1994, 0.2057, 0.1976, 0.1977], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 28
+Train Loss: 0.244682, Acc: 0.507943, Dloss: 0.010329, Eloss: -0.008285, Gloss: -0.002044
+Test Loss: 1.659332, Acc: 0.380924
+topic: tensor([0.1994, 0.1993, 0.2052, 0.1985, 0.1975], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 29
+Train Loss: 0.245497, Acc: 0.498411, Dloss: 0.012381, Eloss: -0.010336, Gloss: -0.002045
+Test Loss: 1.656479, Acc: 0.382124
+topic: tensor([0.1998, 0.1989, 0.2050, 0.1980, 0.1983], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 30
+Train Loss: 0.243376, Acc: 0.518666, Dloss: 0.014227, Eloss: -0.012181, Gloss: -0.002046
+Test Loss: 1.645139, Acc: 0.400720
+topic: tensor([0.1999, 0.1986, 0.2054, 0.1976, 0.1984], device='cuda:0')
+Saving model ...
+epoch 31
+Train Loss: 0.243870, Acc: 0.514297, Dloss: 0.016664, Eloss: -0.014616, Gloss: -0.002047
+Test Loss: 1.650359, Acc: 0.397720
+topic: tensor([0.2001, 0.1987, 0.2051, 0.1977, 0.1984], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 32
+Train Loss: 0.243274, Acc: 0.520651, Dloss: 0.018437, Eloss: -0.016389, Gloss: -0.002048
+Test Loss: 1.632304, Acc: 0.418116
+topic: tensor([0.2001, 0.1992, 0.2048, 0.1973, 0.1986], device='cuda:0')
+Saving model ...
+epoch 33
+Train Loss: 0.242009, Acc: 0.538125, Dloss: 0.021956, Eloss: -0.019907, Gloss: -0.002049
+Test Loss: 1.632526, Acc: 0.416317
+topic: tensor([0.2002, 0.1986, 0.2048, 0.1978, 0.1985], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 34
+Train Loss: 0.242572, Acc: 0.521843, Dloss: 0.024560, Eloss: -0.022509, Gloss: -0.002050
+Test Loss: 1.624040, Acc: 0.429514
+topic: tensor([0.2005, 0.1989, 0.2049, 0.1974, 0.1983], device='cuda:0')
+Saving model ...
+epoch 35
+Train Loss: 0.240782, Acc: 0.543685, Dloss: 0.025123, Eloss: -0.023071, Gloss: -0.002051
+Test Loss: 1.650379, Acc: 0.392322
+topic: tensor([0.2001, 0.1988, 0.2042, 0.1984, 0.1985], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 36
+Train Loss: 0.241688, Acc: 0.537728, Dloss: 0.025207, Eloss: -0.023155, Gloss: -0.002052
+Test Loss: 1.606699, Acc: 0.437912
+topic: tensor([0.2006, 0.1990, 0.2050, 0.1970, 0.1984], device='cuda:0')
+Saving model ...
+epoch 37
+Train Loss: 0.240281, Acc: 0.539317, Dloss: 0.025062, Eloss: -0.023009, Gloss: -0.002053
+Test Loss: 1.628218, Acc: 0.421716
+topic: tensor([0.2003, 0.1982, 0.2045, 0.1982, 0.1988], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 38
+Train Loss: 0.240617, Acc: 0.544083, Dloss: 0.026480, Eloss: -0.024426, Gloss: -0.002055
+Test Loss: 1.669233, Acc: 0.364127
+topic: tensor([0.2003, 0.1995, 0.2048, 0.1966, 0.1987], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 39
+Train Loss: 0.240587, Acc: 0.541700, Dloss: 0.025984, Eloss: -0.023928, Gloss: -0.002057
+Test Loss: 1.606753, Acc: 0.441512
+topic: tensor([0.2009, 0.1986, 0.2047, 0.1973, 0.1985], device='cuda:0')
+Saving model ...
+epoch 40
+Train Loss: 0.241044, Acc: 0.538920, Dloss: 0.025939, Eloss: -0.023881, Gloss: -0.002059
+Test Loss: 1.619977, Acc: 0.440312
+topic: tensor([0.2010, 0.1985, 0.2043, 0.1976, 0.1986], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 41
+Train Loss: 0.240184, Acc: 0.537331, Dloss: 0.027758, Eloss: -0.025698, Gloss: -0.002060
+Test Loss: 1.631360, Acc: 0.415117
+topic: tensor([0.2006, 0.1991, 0.2041, 0.1976, 0.1986], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 42
+Train Loss: 0.238688, Acc: 0.560763, Dloss: 0.028613, Eloss: -0.026551, Gloss: -0.002062
+Test Loss: 1.634458, Acc: 0.416317
+topic: tensor([0.2005, 0.1987, 0.2044, 0.1975, 0.1989], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 43
+Train Loss: 0.239665, Acc: 0.547657, Dloss: 0.031299, Eloss: -0.029236, Gloss: -0.002063
+Test Loss: 1.645795, Acc: 0.400720
+topic: tensor([0.2002, 0.1988, 0.2041, 0.1982, 0.1987], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 44
+Train Loss: 0.238459, Acc: 0.560763, Dloss: 0.034485, Eloss: -0.032420, Gloss: -0.002065
+Test Loss: 1.669284, Acc: 0.365327
+topic: tensor([0.2003, 0.1986, 0.2044, 0.1978, 0.1989], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 45
+Train Loss: 0.237845, Acc: 0.562748, Dloss: 0.035274, Eloss: -0.033207, Gloss: -0.002067
+Test Loss: 1.596258, Acc: 0.465507
+topic: tensor([0.2003, 0.1985, 0.2042, 0.1983, 0.1988], device='cuda:0')
+Saving model ...
+epoch 46
+Train Loss: 0.240529, Acc: 0.539714, Dloss: 0.036128, Eloss: -0.034059, Gloss: -0.002069
+Test Loss: 1.615813, Acc: 0.439112
+topic: tensor([0.2005, 0.1988, 0.2044, 0.1976, 0.1986], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 47
+Train Loss: 0.237565, Acc: 0.570691, Dloss: 0.037526, Eloss: -0.035456, Gloss: -0.002070
+Test Loss: 1.703641, Acc: 0.319736
+topic: tensor([0.2004, 0.1987, 0.2043, 0.1978, 0.1988], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 48
+Train Loss: 0.238737, Acc: 0.555203, Dloss: 0.038901, Eloss: -0.036830, Gloss: -0.002072
+Test Loss: 1.650429, Acc: 0.394721
+topic: tensor([0.2004, 0.1986, 0.2042, 0.1979, 0.1988], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 49
+Train Loss: 0.238589, Acc: 0.557585, Dloss: 0.038038, Eloss: -0.035965, Gloss: -0.002073
+Test Loss: 1.615227, Acc: 0.434913
+topic: tensor([0.2006, 0.1991, 0.2040, 0.1975, 0.1988], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 50
+Train Loss: 0.238790, Acc: 0.561160, Dloss: 0.037843, Eloss: -0.035769, Gloss: -0.002074
+Test Loss: 1.614065, Acc: 0.439112
+topic: tensor([0.2007, 0.1990, 0.2045, 0.1971, 0.1987], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 51
+Train Loss: 0.237137, Acc: 0.569102, Dloss: 0.038582, Eloss: -0.036506, Gloss: -0.002076
+Test Loss: 1.627947, Acc: 0.427115
+topic: tensor([0.2007, 0.1987, 0.2039, 0.1977, 0.1990], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 52
+Train Loss: 0.238281, Acc: 0.561954, Dloss: 0.039514, Eloss: -0.037437, Gloss: -0.002077
+Test Loss: 1.630338, Acc: 0.421716
+topic: tensor([0.2007, 0.1987, 0.2038, 0.1978, 0.1990], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 53
+Train Loss: 0.237231, Acc: 0.568308, Dloss: 0.041807, Eloss: -0.039729, Gloss: -0.002078
+Test Loss: 1.589008, Acc: 0.473305
+topic: tensor([0.2007, 0.1986, 0.2043, 0.1975, 0.1988], device='cuda:0')
+Saving model ...
+epoch 54
+Train Loss: 0.237332, Acc: 0.573471, Dloss: 0.042655, Eloss: -0.040575, Gloss: -0.002080
+Test Loss: 1.602502, Acc: 0.458908
+topic: tensor([0.2002, 0.1989, 0.2037, 0.1980, 0.1992], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 55
+Train Loss: 0.235712, Acc: 0.588562, Dloss: 0.043516, Eloss: -0.041435, Gloss: -0.002081
+Test Loss: 1.609565, Acc: 0.450510
+topic: tensor([0.2006, 0.1986, 0.2040, 0.1977, 0.1992], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 56
+Train Loss: 0.237606, Acc: 0.568705, Dloss: 0.045273, Eloss: -0.043190, Gloss: -0.002082
+Test Loss: 1.632229, Acc: 0.422915
+topic: tensor([0.2005, 0.1986, 0.2043, 0.1976, 0.1990], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 57
+Train Loss: 0.236655, Acc: 0.579031, Dloss: 0.047241, Eloss: -0.045157, Gloss: -0.002083
+Test Loss: 1.618237, Acc: 0.428314
+topic: tensor([0.2007, 0.1988, 0.2040, 0.1976, 0.1990], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 58
+Train Loss: 0.235512, Acc: 0.588165, Dloss: 0.049933, Eloss: -0.047849, Gloss: -0.002084
+Test Loss: 1.593973, Acc: 0.466107
+topic: tensor([0.2003, 0.1988, 0.2040, 0.1974, 0.1995], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 59
+Train Loss: 0.236160, Acc: 0.582208, Dloss: 0.052203, Eloss: -0.050116, Gloss: -0.002087
+Test Loss: 1.619935, Acc: 0.432513
+topic: tensor([0.2004, 0.1992, 0.2037, 0.1975, 0.1992], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 60
+Train Loss: 0.234766, Acc: 0.593725, Dloss: 0.053600, Eloss: -0.051512, Gloss: -0.002089
+Test Loss: 1.587723, Acc: 0.478704
+topic: tensor([0.2002, 0.1990, 0.2042, 0.1973, 0.1993], device='cuda:0')
+Saving model ...
+epoch 61
+Train Loss: 0.235436, Acc: 0.590548, Dloss: 0.054433, Eloss: -0.052342, Gloss: -0.002091
+Test Loss: 1.595425, Acc: 0.466707
+topic: tensor([0.2002, 0.1986, 0.2042, 0.1980, 0.1990], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 62
+Train Loss: 0.235162, Acc: 0.589754, Dloss: 0.054546, Eloss: -0.052454, Gloss: -0.002092
+Test Loss: 1.657237, Acc: 0.386323
+topic: tensor([0.2006, 0.1986, 0.2037, 0.1979, 0.1992], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 63
+Train Loss: 0.235309, Acc: 0.588562, Dloss: 0.053881, Eloss: -0.051787, Gloss: -0.002094
+Test Loss: 1.607981, Acc: 0.452909
+topic: tensor([0.2005, 0.1990, 0.2039, 0.1976, 0.1989], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 64
+Train Loss: 0.235368, Acc: 0.586180, Dloss: 0.052687, Eloss: -0.050591, Gloss: -0.002096
+Test Loss: 1.601794, Acc: 0.451710
+topic: tensor([0.2003, 0.1985, 0.2034, 0.1985, 0.1993], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 65
+Train Loss: 0.233312, Acc: 0.605639, Dloss: 0.049764, Eloss: -0.047666, Gloss: -0.002098
+Test Loss: 1.602682, Acc: 0.452310
+topic: tensor([0.2000, 0.1986, 0.2035, 0.1985, 0.1994], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 66
+Train Loss: 0.234617, Acc: 0.590151, Dloss: 0.047084, Eloss: -0.044985, Gloss: -0.002100
+Test Loss: 1.610280, Acc: 0.445711
+topic: tensor([0.2006, 0.1988, 0.2036, 0.1979, 0.1991], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 67
+Train Loss: 0.233810, Acc: 0.600874, Dloss: 0.046456, Eloss: -0.044354, Gloss: -0.002102
+Test Loss: 1.614746, Acc: 0.439712
+topic: tensor([0.2005, 0.1987, 0.2033, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 68
+Train Loss: 0.233876, Acc: 0.600477, Dloss: 0.045853, Eloss: -0.043749, Gloss: -0.002104
+Test Loss: 1.661593, Acc: 0.385123
+topic: tensor([0.2007, 0.1986, 0.2035, 0.1976, 0.1995], device='cuda:0')
+EarlyStopping counter: 8 out of 50
+epoch 69
+Train Loss: 0.233852, Acc: 0.603654, Dloss: 0.043872, Eloss: -0.041766, Gloss: -0.002106
+Test Loss: 1.593070, Acc: 0.469106
+topic: tensor([0.2007, 0.1987, 0.2034, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 9 out of 50
+epoch 70
+Train Loss: 0.233648, Acc: 0.599682, Dloss: 0.044468, Eloss: -0.042360, Gloss: -0.002108
+Test Loss: 1.592775, Acc: 0.468506
+topic: tensor([0.2007, 0.1986, 0.2036, 0.1978, 0.1992], device='cuda:0')
+EarlyStopping counter: 10 out of 50
+epoch 71
+Train Loss: 0.233366, Acc: 0.606037, Dloss: 0.044666, Eloss: -0.042556, Gloss: -0.002110
+Test Loss: 1.592664, Acc: 0.473305
+topic: tensor([0.2009, 0.1986, 0.2038, 0.1974, 0.1994], device='cuda:0')
+EarlyStopping counter: 11 out of 50
+epoch 72
+Train Loss: 0.232067, Acc: 0.613979, Dloss: 0.045184, Eloss: -0.043073, Gloss: -0.002112
+Test Loss: 1.609631, Acc: 0.448710
+topic: tensor([0.2005, 0.1989, 0.2035, 0.1978, 0.1994], device='cuda:0')
+EarlyStopping counter: 12 out of 50
+epoch 73
+Train Loss: 0.232366, Acc: 0.610405, Dloss: 0.045252, Eloss: -0.043139, Gloss: -0.002113
+Test Loss: 1.591694, Acc: 0.469706
+topic: tensor([0.2007, 0.1990, 0.2032, 0.1974, 0.1997], device='cuda:0')
+EarlyStopping counter: 13 out of 50
+epoch 74
+Train Loss: 0.232430, Acc: 0.613582, Dloss: 0.046319, Eloss: -0.044204, Gloss: -0.002115
+Test Loss: 1.590814, Acc: 0.468506
+topic: tensor([0.2008, 0.1989, 0.2033, 0.1978, 0.1993], device='cuda:0')
+EarlyStopping counter: 14 out of 50
+epoch 75
+Train Loss: 0.231885, Acc: 0.621525, Dloss: 0.052254, Eloss: -0.050138, Gloss: -0.002117
+Test Loss: 1.590898, Acc: 0.471506
+topic: tensor([0.2011, 0.1987, 0.2031, 0.1977, 0.1994], device='cuda:0')
+EarlyStopping counter: 15 out of 50
+epoch 76
+Train Loss: 0.231438, Acc: 0.620731, Dloss: 0.056223, Eloss: -0.054105, Gloss: -0.002118
+Test Loss: 1.586459, Acc: 0.478104
+topic: tensor([0.2005, 0.1989, 0.2032, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 16 out of 50
+epoch 77
+Train Loss: 0.231162, Acc: 0.627085, Dloss: 0.058022, Eloss: -0.055903, Gloss: -0.002119
+Test Loss: 1.599534, Acc: 0.463707
+topic: tensor([0.2008, 0.1988, 0.2033, 0.1977, 0.1994], device='cuda:0')
+EarlyStopping counter: 17 out of 50
+epoch 78
+Train Loss: 0.231754, Acc: 0.617554, Dloss: 0.058135, Eloss: -0.056014, Gloss: -0.002121
+Test Loss: 1.590284, Acc: 0.472106
+topic: tensor([0.2007, 0.1985, 0.2035, 0.1979, 0.1994], device='cuda:0')
+EarlyStopping counter: 18 out of 50
+epoch 79
+Train Loss: 0.231645, Acc: 0.619539, Dloss: 0.060690, Eloss: -0.058568, Gloss: -0.002123
+Test Loss: 1.593346, Acc: 0.470306
+topic: tensor([0.2005, 0.1986, 0.2036, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 19 out of 50
+epoch 80
+Train Loss: 0.230349, Acc: 0.635822, Dloss: 0.060288, Eloss: -0.058163, Gloss: -0.002125
+Test Loss: 1.587839, Acc: 0.468506
+topic: tensor([0.2010, 0.1986, 0.2037, 0.1975, 0.1993], device='cuda:0')
+EarlyStopping counter: 20 out of 50
+epoch 81
+Train Loss: 0.231397, Acc: 0.618745, Dloss: 0.057885, Eloss: -0.055759, Gloss: -0.002126
+Test Loss: 1.646256, Acc: 0.395921
+topic: tensor([0.2008, 0.1988, 0.2034, 0.1977, 0.1994], device='cuda:0')
+EarlyStopping counter: 21 out of 50
+epoch 82
+Train Loss: 0.229635, Acc: 0.637808, Dloss: 0.058449, Eloss: -0.056323, Gloss: -0.002127
+Test Loss: 1.579174, Acc: 0.484703
+topic: tensor([0.2008, 0.1987, 0.2037, 0.1975, 0.1993], device='cuda:0')
+Saving model ...
+epoch 83
+Train Loss: 0.230527, Acc: 0.629468, Dloss: 0.060796, Eloss: -0.058668, Gloss: -0.002128
+Test Loss: 1.607384, Acc: 0.442112
+topic: tensor([0.2007, 0.1988, 0.2036, 0.1976, 0.1993], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 84
+Train Loss: 0.228112, Acc: 0.647339, Dloss: 0.062798, Eloss: -0.060668, Gloss: -0.002129
+Test Loss: 1.590030, Acc: 0.475105
+topic: tensor([0.2008, 0.1986, 0.2033, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 85
+Train Loss: 0.230542, Acc: 0.629468, Dloss: 0.063095, Eloss: -0.060963, Gloss: -0.002131
+Test Loss: 1.706871, Acc: 0.304139
+topic: tensor([0.2012, 0.1986, 0.2034, 0.1975, 0.1993], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 86
+Train Loss: 0.228506, Acc: 0.649325, Dloss: 0.063850, Eloss: -0.061717, Gloss: -0.002133
+Test Loss: 1.630365, Acc: 0.416917
+topic: tensor([0.2010, 0.1987, 0.2035, 0.1976, 0.1992], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 87
+Train Loss: 0.229831, Acc: 0.631056, Dloss: 0.062852, Eloss: -0.060717, Gloss: -0.002135
+Test Loss: 1.602206, Acc: 0.457708
+topic: tensor([0.2009, 0.1989, 0.2032, 0.1977, 0.1992], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 88
+Train Loss: 0.229472, Acc: 0.639793, Dloss: 0.060440, Eloss: -0.058304, Gloss: -0.002136
+Test Loss: 1.575785, Acc: 0.494901
+topic: tensor([0.2008, 0.1988, 0.2035, 0.1978, 0.1992], device='cuda:0')
+Saving model ...
+epoch 89
+Train Loss: 0.228948, Acc: 0.641382, Dloss: 0.060908, Eloss: -0.058771, Gloss: -0.002138
+Test Loss: 1.652224, Acc: 0.392322
+topic: tensor([0.2007, 0.1989, 0.2032, 0.1978, 0.1994], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 90
+Train Loss: 0.227754, Acc: 0.650516, Dloss: 0.060194, Eloss: -0.058054, Gloss: -0.002140
+Test Loss: 1.624150, Acc: 0.417516
+topic: tensor([0.2007, 0.1989, 0.2032, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 91
+Train Loss: 0.229188, Acc: 0.640191, Dloss: 0.058751, Eloss: -0.056609, Gloss: -0.002142
+Test Loss: 1.632138, Acc: 0.421716
+topic: tensor([0.2008, 0.1986, 0.2032, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 92
+Train Loss: 0.228571, Acc: 0.643368, Dloss: 0.056668, Eloss: -0.054524, Gloss: -0.002144
+Test Loss: 1.599354, Acc: 0.453509
+topic: tensor([0.2007, 0.1988, 0.2034, 0.1979, 0.1993], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 93
+Train Loss: 0.227479, Acc: 0.654091, Dloss: 0.052097, Eloss: -0.049951, Gloss: -0.002145
+Test Loss: 1.591458, Acc: 0.472106
+topic: tensor([0.2007, 0.1987, 0.2032, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 94
+Train Loss: 0.228532, Acc: 0.647339, Dloss: 0.047224, Eloss: -0.045076, Gloss: -0.002148
+Test Loss: 1.622107, Acc: 0.438512
+topic: tensor([0.2007, 0.1985, 0.2032, 0.1983, 0.1993], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 95
+Train Loss: 0.227930, Acc: 0.650119, Dloss: 0.046023, Eloss: -0.043874, Gloss: -0.002149
+Test Loss: 1.596111, Acc: 0.460708
+topic: tensor([0.2009, 0.1989, 0.2032, 0.1975, 0.1995], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 96
+Train Loss: 0.227946, Acc: 0.651708, Dloss: 0.048423, Eloss: -0.046273, Gloss: -0.002151
+Test Loss: 1.613827, Acc: 0.436713
+topic: tensor([0.2008, 0.1988, 0.2032, 0.1978, 0.1995], device='cuda:0')
+EarlyStopping counter: 8 out of 50
+epoch 97
+Train Loss: 0.226940, Acc: 0.656871, Dloss: 0.053247, Eloss: -0.051095, Gloss: -0.002153
+Test Loss: 1.611963, Acc: 0.442112
+topic: tensor([0.2009, 0.1988, 0.2033, 0.1979, 0.1991], device='cuda:0')
+EarlyStopping counter: 9 out of 50
+epoch 98
+Train Loss: 0.227065, Acc: 0.651708, Dloss: 0.058491, Eloss: -0.056336, Gloss: -0.002154
+Test Loss: 1.596147, Acc: 0.460708
+topic: tensor([0.2010, 0.1986, 0.2032, 0.1978, 0.1994], device='cuda:0')
+EarlyStopping counter: 10 out of 50
+epoch 99
+Train Loss: 0.227076, Acc: 0.657268, Dloss: 0.060896, Eloss: -0.058740, Gloss: -0.002156
+Test Loss: 1.610736, Acc: 0.451110
+topic: tensor([0.2003, 0.1987, 0.2031, 0.1984, 0.1994], device='cuda:0')
+EarlyStopping counter: 11 out of 50
+epoch 100
+Train Loss: 0.226306, Acc: 0.663225, Dloss: 0.062089, Eloss: -0.059931, Gloss: -0.002158
+Test Loss: 1.600687, Acc: 0.459508
+topic: tensor([0.2007, 0.1987, 0.2033, 0.1981, 0.1993], device='cuda:0')
+EarlyStopping counter: 12 out of 50
+epoch 101
+Train Loss: 0.226896, Acc: 0.665608, Dloss: 0.063973, Eloss: -0.061814, Gloss: -0.002159
+Test Loss: 1.575234, Acc: 0.496101
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1980, 0.1994], device='cuda:0')
+Saving model ...
+epoch 102
+Train Loss: 0.226653, Acc: 0.662828, Dloss: 0.066150, Eloss: -0.063989, Gloss: -0.002161
+Test Loss: 1.604875, Acc: 0.454709
+topic: tensor([0.2007, 0.1989, 0.2031, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 103
+Train Loss: 0.226021, Acc: 0.667990, Dloss: 0.066121, Eloss: -0.063958, Gloss: -0.002163
+Test Loss: 1.612548, Acc: 0.445111
+topic: tensor([0.2006, 0.1986, 0.2032, 0.1983, 0.1994], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 104
+Train Loss: 0.225553, Acc: 0.669976, Dloss: 0.064655, Eloss: -0.062490, Gloss: -0.002165
+Test Loss: 1.583487, Acc: 0.474505
+topic: tensor([0.2010, 0.1985, 0.2030, 0.1981, 0.1993], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 105
+Train Loss: 0.225192, Acc: 0.672756, Dloss: 0.065365, Eloss: -0.063197, Gloss: -0.002167
+Test Loss: 1.620767, Acc: 0.437313
+topic: tensor([0.2006, 0.1987, 0.2032, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 106
+Train Loss: 0.224668, Acc: 0.679110, Dloss: 0.064518, Eloss: -0.062348, Gloss: -0.002170
+Test Loss: 1.595508, Acc: 0.454109
+topic: tensor([0.2006, 0.1988, 0.2032, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 107
+Train Loss: 0.224269, Acc: 0.680302, Dloss: 0.066642, Eloss: -0.064471, Gloss: -0.002172
+Test Loss: 1.586797, Acc: 0.471506
+topic: tensor([0.2008, 0.1986, 0.2030, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 108
+Train Loss: 0.226175, Acc: 0.664416, Dloss: 0.071137, Eloss: -0.068964, Gloss: -0.002173
+Test Loss: 1.613362, Acc: 0.453509
+topic: tensor([0.2008, 0.1986, 0.2031, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 109
+Train Loss: 0.225724, Acc: 0.670373, Dloss: 0.071872, Eloss: -0.069697, Gloss: -0.002175
+Test Loss: 1.596577, Acc: 0.463107
+topic: tensor([0.2006, 0.1988, 0.2032, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 8 out of 50
+epoch 110
+Train Loss: 0.223585, Acc: 0.692216, Dloss: 0.073767, Eloss: -0.071590, Gloss: -0.002177
+Test Loss: 1.630029, Acc: 0.420516
+topic: tensor([0.2008, 0.1989, 0.2030, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 9 out of 50
+epoch 111
+Train Loss: 0.225071, Acc: 0.673153, Dloss: 0.075657, Eloss: -0.073479, Gloss: -0.002178
+Test Loss: 1.638982, Acc: 0.394721
+topic: tensor([0.2007, 0.1989, 0.2030, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 10 out of 50
+epoch 112
+Train Loss: 0.224370, Acc: 0.680699, Dloss: 0.076462, Eloss: -0.074282, Gloss: -0.002180
+Test Loss: 1.594808, Acc: 0.458308
+topic: tensor([0.2006, 0.1990, 0.2029, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 11 out of 50
+epoch 113
+Train Loss: 0.223780, Acc: 0.687847, Dloss: 0.076597, Eloss: -0.074415, Gloss: -0.002182
+Test Loss: 1.613947, Acc: 0.437912
+topic: tensor([0.2006, 0.1988, 0.2029, 0.1980, 0.1997], device='cuda:0')
+EarlyStopping counter: 12 out of 50
+epoch 114
+Train Loss: 0.222993, Acc: 0.696585, Dloss: 0.078190, Eloss: -0.076006, Gloss: -0.002184
+Test Loss: 1.579100, Acc: 0.485303
+topic: tensor([0.2007, 0.1989, 0.2032, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 13 out of 50
+epoch 115
+Train Loss: 0.224468, Acc: 0.678713, Dloss: 0.081003, Eloss: -0.078817, Gloss: -0.002185
+Test Loss: 1.606397, Acc: 0.452909
+topic: tensor([0.2010, 0.1988, 0.2028, 0.1979, 0.1994], device='cuda:0')
+EarlyStopping counter: 14 out of 50
+epoch 116
+Train Loss: 0.223770, Acc: 0.684670, Dloss: 0.083846, Eloss: -0.081659, Gloss: -0.002186
+Test Loss: 1.575106, Acc: 0.488902
+topic: tensor([0.2005, 0.1988, 0.2029, 0.1984, 0.1994], device='cuda:0')
+EarlyStopping counter: 15 out of 50
+epoch 117
+Train Loss: 0.224140, Acc: 0.677125, Dloss: 0.086367, Eloss: -0.084179, Gloss: -0.002188
+Test Loss: 1.586048, Acc: 0.469706
+topic: tensor([0.2007, 0.1988, 0.2029, 0.1979, 0.1997], device='cuda:0')
+EarlyStopping counter: 16 out of 50
+epoch 118
+Train Loss: 0.223663, Acc: 0.688642, Dloss: 0.085481, Eloss: -0.083291, Gloss: -0.002190
+Test Loss: 1.621434, Acc: 0.433713
+topic: tensor([0.2006, 0.1988, 0.2030, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 17 out of 50
+epoch 119
+Train Loss: 0.223186, Acc: 0.685862, Dloss: 0.085405, Eloss: -0.083212, Gloss: -0.002193
+Test Loss: 1.610836, Acc: 0.440912
+topic: tensor([0.2011, 0.1986, 0.2030, 0.1979, 0.1994], device='cuda:0')
+EarlyStopping counter: 18 out of 50
+epoch 120
+Train Loss: 0.223219, Acc: 0.693010, Dloss: 0.087187, Eloss: -0.084992, Gloss: -0.002195
+Test Loss: 1.578124, Acc: 0.485303
+topic: tensor([0.2007, 0.1988, 0.2031, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 19 out of 50
+epoch 121
+Train Loss: 0.222341, Acc: 0.698570, Dloss: 0.089023, Eloss: -0.086826, Gloss: -0.002197
+Test Loss: 1.575200, Acc: 0.488902
+topic: tensor([0.2008, 0.1987, 0.2030, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 20 out of 50
+epoch 122
+Train Loss: 0.223172, Acc: 0.695790, Dloss: 0.091340, Eloss: -0.089142, Gloss: -0.002198
+Test Loss: 1.595040, Acc: 0.465507
+topic: tensor([0.2008, 0.1987, 0.2031, 0.1983, 0.1992], device='cuda:0')
+EarlyStopping counter: 21 out of 50
+epoch 123
+Train Loss: 0.222430, Acc: 0.698173, Dloss: 0.093944, Eloss: -0.091744, Gloss: -0.002200
+Test Loss: 1.612020, Acc: 0.439712
+topic: tensor([0.2007, 0.1987, 0.2028, 0.1981, 0.1997], device='cuda:0')
+EarlyStopping counter: 22 out of 50
+epoch 124
+Train Loss: 0.223039, Acc: 0.688642, Dloss: 0.098486, Eloss: -0.096284, Gloss: -0.002202
+Test Loss: 1.587955, Acc: 0.473905
+topic: tensor([0.2006, 0.1989, 0.2030, 0.1981, 0.1993], device='cuda:0')
+EarlyStopping counter: 23 out of 50
+epoch 125
+Train Loss: 0.222955, Acc: 0.691422, Dloss: 0.101149, Eloss: -0.098945, Gloss: -0.002204
+Test Loss: 1.597481, Acc: 0.465507
+topic: tensor([0.2009, 0.1989, 0.2031, 0.1979, 0.1993], device='cuda:0')
+EarlyStopping counter: 24 out of 50
+epoch 126
+Train Loss: 0.222493, Acc: 0.693010, Dloss: 0.101108, Eloss: -0.098903, Gloss: -0.002206
+Test Loss: 1.608839, Acc: 0.445711
+topic: tensor([0.2005, 0.1986, 0.2029, 0.1983, 0.1996], device='cuda:0')
+EarlyStopping counter: 25 out of 50
+epoch 127
+Train Loss: 0.222063, Acc: 0.701350, Dloss: 0.100507, Eloss: -0.098298, Gloss: -0.002209
+Test Loss: 1.597320, Acc: 0.458308
+topic: tensor([0.2008, 0.1989, 0.2030, 0.1977, 0.1996], device='cuda:0')
+EarlyStopping counter: 26 out of 50
+epoch 128
+Train Loss: 0.221844, Acc: 0.704527, Dloss: 0.099514, Eloss: -0.097303, Gloss: -0.002211
+Test Loss: 1.592446, Acc: 0.461908
+topic: tensor([0.2009, 0.1987, 0.2031, 0.1982, 0.1992], device='cuda:0')
+EarlyStopping counter: 27 out of 50
+epoch 129
+Train Loss: 0.222860, Acc: 0.690627, Dloss: 0.100112, Eloss: -0.097898, Gloss: -0.002214
+Test Loss: 1.594042, Acc: 0.473305
+topic: tensor([0.2007, 0.1987, 0.2031, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 28 out of 50
+epoch 130
+Train Loss: 0.222450, Acc: 0.694599, Dloss: 0.102165, Eloss: -0.099950, Gloss: -0.002216
+Test Loss: 1.583666, Acc: 0.481104
+topic: tensor([0.2006, 0.1987, 0.2030, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 29 out of 50
+epoch 131
+Train Loss: 0.222803, Acc: 0.689436, Dloss: 0.102862, Eloss: -0.100644, Gloss: -0.002218
+Test Loss: 1.584470, Acc: 0.481104
+topic: tensor([0.2008, 0.1986, 0.2029, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 30 out of 50
+epoch 132
+Train Loss: 0.220262, Acc: 0.712867, Dloss: 0.102004, Eloss: -0.099784, Gloss: -0.002220
+Test Loss: 1.589741, Acc: 0.466707
+topic: tensor([0.2007, 0.1988, 0.2031, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 31 out of 50
+epoch 133
+Train Loss: 0.221459, Acc: 0.700953, Dloss: 0.102137, Eloss: -0.099915, Gloss: -0.002222
+Test Loss: 1.607785, Acc: 0.446311
+topic: tensor([0.2008, 0.1985, 0.2032, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 32 out of 50
+epoch 134
+Train Loss: 0.221408, Acc: 0.707705, Dloss: 0.102374, Eloss: -0.100150, Gloss: -0.002223
+Test Loss: 1.589395, Acc: 0.469106
+topic: tensor([0.2007, 0.1985, 0.2029, 0.1984, 0.1995], device='cuda:0')
+EarlyStopping counter: 33 out of 50
+epoch 135
+Train Loss: 0.220793, Acc: 0.713662, Dloss: 0.100693, Eloss: -0.098469, Gloss: -0.002224
+Test Loss: 1.574774, Acc: 0.487103
+topic: tensor([0.2009, 0.1986, 0.2030, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 34 out of 50
+epoch 136
+Train Loss: 0.221801, Acc: 0.699762, Dloss: 0.098754, Eloss: -0.096526, Gloss: -0.002228
+Test Loss: 1.605703, Acc: 0.443911
+topic: tensor([0.2007, 0.1989, 0.2031, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 35 out of 50
+epoch 137
+Train Loss: 0.221307, Acc: 0.706513, Dloss: 0.099596, Eloss: -0.097365, Gloss: -0.002231
+Test Loss: 1.573579, Acc: 0.485303
+topic: tensor([0.2006, 0.1987, 0.2031, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 36 out of 50
+epoch 138
+Train Loss: 0.221167, Acc: 0.708102, Dloss: 0.101628, Eloss: -0.099394, Gloss: -0.002233
+Test Loss: 1.565760, Acc: 0.505099
+topic: tensor([0.2007, 0.1987, 0.2031, 0.1979, 0.1995], device='cuda:0')
+Saving model ...
+epoch 139
+Train Loss: 0.220573, Acc: 0.718030, Dloss: 0.104352, Eloss: -0.102117, Gloss: -0.002236
+Test Loss: 1.593341, Acc: 0.463107
+topic: tensor([0.2008, 0.1989, 0.2028, 0.1980, 0.1995], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 140
+Train Loss: 0.220664, Acc: 0.711279, Dloss: 0.108967, Eloss: -0.106730, Gloss: -0.002237
+Test Loss: 1.575222, Acc: 0.489502
+topic: tensor([0.2007, 0.1984, 0.2031, 0.1983, 0.1994], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 141
+Train Loss: 0.220757, Acc: 0.714853, Dloss: 0.112791, Eloss: -0.110553, Gloss: -0.002238
+Test Loss: 1.587482, Acc: 0.473305
+topic: tensor([0.2007, 0.1989, 0.2030, 0.1979, 0.1994], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 142
+Train Loss: 0.220988, Acc: 0.710882, Dloss: 0.115381, Eloss: -0.113142, Gloss: -0.002240
+Test Loss: 1.590486, Acc: 0.468506
+topic: tensor([0.2007, 0.1987, 0.2030, 0.1983, 0.1993], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 143
+Train Loss: 0.220893, Acc: 0.705719, Dloss: 0.117187, Eloss: -0.114946, Gloss: -0.002241
+Test Loss: 1.581725, Acc: 0.479904
+topic: tensor([0.2007, 0.1987, 0.2030, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 144
+Train Loss: 0.220018, Acc: 0.716044, Dloss: 0.119440, Eloss: -0.117198, Gloss: -0.002242
+Test Loss: 1.653516, Acc: 0.388122
+topic: tensor([0.2009, 0.1987, 0.2031, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 145
+Train Loss: 0.221161, Acc: 0.703733, Dloss: 0.121736, Eloss: -0.119492, Gloss: -0.002244
+Test Loss: 1.601131, Acc: 0.452909
+topic: tensor([0.2008, 0.1988, 0.2029, 0.1982, 0.1993], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 146
+Train Loss: 0.219912, Acc: 0.718427, Dloss: 0.123488, Eloss: -0.121242, Gloss: -0.002246
+Test Loss: 1.599350, Acc: 0.462507
+topic: tensor([0.2007, 0.1987, 0.2028, 0.1982, 0.1996], device='cuda:0')
+EarlyStopping counter: 8 out of 50
+epoch 147
+Train Loss: 0.220293, Acc: 0.713662, Dloss: 0.124007, Eloss: -0.121759, Gloss: -0.002248
+Test Loss: 1.586602, Acc: 0.476905
+topic: tensor([0.2007, 0.1988, 0.2030, 0.1979, 0.1996], device='cuda:0')
+EarlyStopping counter: 9 out of 50
+epoch 148
+Train Loss: 0.219281, Acc: 0.723590, Dloss: 0.123218, Eloss: -0.120968, Gloss: -0.002250
+Test Loss: 1.580002, Acc: 0.484103
+topic: tensor([0.2006, 0.1989, 0.2030, 0.1979, 0.1996], device='cuda:0')
+EarlyStopping counter: 10 out of 50
+epoch 149
+Train Loss: 0.220477, Acc: 0.713662, Dloss: 0.121963, Eloss: -0.119711, Gloss: -0.002252
+Test Loss: 1.599276, Acc: 0.460708
+topic: tensor([0.2006, 0.1988, 0.2030, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 11 out of 50
+epoch 150
+Train Loss: 0.219648, Acc: 0.719619, Dloss: 0.121347, Eloss: -0.119094, Gloss: -0.002254
+Test Loss: 1.578560, Acc: 0.484703
+topic: tensor([0.2007, 0.1989, 0.2031, 0.1981, 0.1992], device='cuda:0')
+EarlyStopping counter: 12 out of 50
+epoch 151
+Train Loss: 0.219560, Acc: 0.722002, Dloss: 0.120290, Eloss: -0.118034, Gloss: -0.002256
+Test Loss: 1.590108, Acc: 0.469106
+topic: tensor([0.2007, 0.1987, 0.2030, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 13 out of 50
+epoch 152
+Train Loss: 0.220704, Acc: 0.709690, Dloss: 0.120142, Eloss: -0.117883, Gloss: -0.002258
+Test Loss: 1.592307, Acc: 0.466707
+topic: tensor([0.2008, 0.1989, 0.2030, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 14 out of 50
+epoch 153
+Train Loss: 0.218915, Acc: 0.726767, Dloss: 0.120115, Eloss: -0.117854, Gloss: -0.002261
+Test Loss: 1.582928, Acc: 0.481704
+topic: tensor([0.2009, 0.1988, 0.2030, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 15 out of 50
+epoch 154
+Train Loss: 0.219105, Acc: 0.725576, Dloss: 0.121236, Eloss: -0.118974, Gloss: -0.002262
+Test Loss: 1.591395, Acc: 0.467307
+topic: tensor([0.2008, 0.1988, 0.2030, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 16 out of 50
+epoch 155
+Train Loss: 0.219725, Acc: 0.717633, Dloss: 0.123432, Eloss: -0.121168, Gloss: -0.002264
+Test Loss: 1.569430, Acc: 0.493701
+topic: tensor([0.2008, 0.1987, 0.2029, 0.1979, 0.1996], device='cuda:0')
+EarlyStopping counter: 17 out of 50
+epoch 156
+Train Loss: 0.219566, Acc: 0.722399, Dloss: 0.124400, Eloss: -0.122134, Gloss: -0.002265
+Test Loss: 1.586525, Acc: 0.470306
+topic: tensor([0.2011, 0.1988, 0.2028, 0.1979, 0.1994], device='cuda:0')
+EarlyStopping counter: 18 out of 50
+epoch 157
+Train Loss: 0.218637, Acc: 0.727959, Dloss: 0.123720, Eloss: -0.121453, Gloss: -0.002267
+Test Loss: 1.584905, Acc: 0.478704
+topic: tensor([0.2010, 0.1987, 0.2028, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 19 out of 50
+epoch 158
+Train Loss: 0.218423, Acc: 0.730342, Dloss: 0.124285, Eloss: -0.122018, Gloss: -0.002268
+Test Loss: 1.574036, Acc: 0.490102
+topic: tensor([0.2008, 0.1986, 0.2031, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 20 out of 50
+epoch 159
+Train Loss: 0.219446, Acc: 0.718824, Dloss: 0.124156, Eloss: -0.121887, Gloss: -0.002269
+Test Loss: 1.587730, Acc: 0.470306
+topic: tensor([0.2008, 0.1987, 0.2031, 0.1981, 0.1993], device='cuda:0')
+EarlyStopping counter: 21 out of 50
+epoch 160
+Train Loss: 0.218384, Acc: 0.732327, Dloss: 0.123381, Eloss: -0.121109, Gloss: -0.002271
+Test Loss: 1.586613, Acc: 0.467307
+topic: tensor([0.2010, 0.1988, 0.2027, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 22 out of 50
+epoch 161
+Train Loss: 0.218900, Acc: 0.727164, Dloss: 0.123804, Eloss: -0.121530, Gloss: -0.002274
+Test Loss: 1.575896, Acc: 0.478104
+topic: tensor([0.2008, 0.1988, 0.2029, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 23 out of 50
+epoch 162
+Train Loss: 0.219356, Acc: 0.721604, Dloss: 0.125255, Eloss: -0.122978, Gloss: -0.002277
+Test Loss: 1.584551, Acc: 0.476905
+topic: tensor([0.2009, 0.1988, 0.2028, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 24 out of 50
+epoch 163
+Train Loss: 0.218579, Acc: 0.732724, Dloss: 0.126941, Eloss: -0.124662, Gloss: -0.002279
+Test Loss: 1.582913, Acc: 0.478704
+topic: tensor([0.2008, 0.1986, 0.2030, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 25 out of 50
+epoch 164
+Train Loss: 0.217773, Acc: 0.739476, Dloss: 0.126548, Eloss: -0.124267, Gloss: -0.002281
+Test Loss: 1.571878, Acc: 0.490102
+topic: tensor([0.2007, 0.1988, 0.2028, 0.1982, 0.1996], device='cuda:0')
+EarlyStopping counter: 26 out of 50
+epoch 165
+Train Loss: 0.218259, Acc: 0.734313, Dloss: 0.126500, Eloss: -0.124218, Gloss: -0.002283
+Test Loss: 1.577965, Acc: 0.481104
+topic: tensor([0.2008, 0.1987, 0.2029, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 27 out of 50
+epoch 166
+Train Loss: 0.218193, Acc: 0.733122, Dloss: 0.128478, Eloss: -0.126193, Gloss: -0.002285
+Test Loss: 1.575027, Acc: 0.486503
+topic: tensor([0.2011, 0.1987, 0.2028, 0.1979, 0.1996], device='cuda:0')
+EarlyStopping counter: 28 out of 50
+epoch 167
+Train Loss: 0.218329, Acc: 0.734710, Dloss: 0.131207, Eloss: -0.128920, Gloss: -0.002287
+Test Loss: 1.578734, Acc: 0.479304
+topic: tensor([0.2009, 0.1988, 0.2029, 0.1980, 0.1995], device='cuda:0')
+EarlyStopping counter: 29 out of 50
+epoch 168
+Train Loss: 0.218211, Acc: 0.731136, Dloss: 0.134846, Eloss: -0.132557, Gloss: -0.002290
+Test Loss: 1.582030, Acc: 0.482304
+topic: tensor([0.2007, 0.1988, 0.2029, 0.1981, 0.1996], device='cuda:0')
+EarlyStopping counter: 30 out of 50
+epoch 169
+Train Loss: 0.217462, Acc: 0.735902, Dloss: 0.135769, Eloss: -0.133477, Gloss: -0.002292
+Test Loss: 1.581569, Acc: 0.477504
+topic: tensor([0.2008, 0.1989, 0.2027, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 31 out of 50
+epoch 170
+Train Loss: 0.217729, Acc: 0.735107, Dloss: 0.135640, Eloss: -0.133346, Gloss: -0.002294
+Test Loss: 1.590306, Acc: 0.469106
+topic: tensor([0.2007, 0.1986, 0.2028, 0.1984, 0.1995], device='cuda:0')
+EarlyStopping counter: 32 out of 50
+epoch 171
+Train Loss: 0.218446, Acc: 0.729547, Dloss: 0.135174, Eloss: -0.132878, Gloss: -0.002296
+Test Loss: 1.570513, Acc: 0.499100
+topic: tensor([0.2007, 0.1987, 0.2030, 0.1980, 0.1996], device='cuda:0')
+EarlyStopping counter: 33 out of 50
+epoch 172
+Train Loss: 0.217698, Acc: 0.735107, Dloss: 0.134213, Eloss: -0.131915, Gloss: -0.002298
+Test Loss: 1.581530, Acc: 0.477504
+topic: tensor([0.2007, 0.1987, 0.2030, 0.1982, 0.1993], device='cuda:0')
+EarlyStopping counter: 34 out of 50
+epoch 173
+Train Loss: 0.217068, Acc: 0.742653, Dloss: 0.132903, Eloss: -0.130603, Gloss: -0.002300
+Test Loss: 1.609512, Acc: 0.439112
+topic: tensor([0.2008, 0.1987, 0.2029, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 35 out of 50
+epoch 174
+Train Loss: 0.217752, Acc: 0.736696, Dloss: 0.132453, Eloss: -0.130150, Gloss: -0.002303
+Test Loss: 1.584182, Acc: 0.472106
+topic: tensor([0.2008, 0.1985, 0.2030, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 36 out of 50
+epoch 175
+Train Loss: 0.218240, Acc: 0.732327, Dloss: 0.135103, Eloss: -0.132800, Gloss: -0.002304
+Test Loss: 1.572594, Acc: 0.496701
+topic: tensor([0.2009, 0.1989, 0.2027, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 37 out of 50
+epoch 176
+Train Loss: 0.217684, Acc: 0.735504, Dloss: 0.136001, Eloss: -0.133696, Gloss: -0.002305
+Test Loss: 1.589506, Acc: 0.473305
+topic: tensor([0.2008, 0.1987, 0.2029, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 38 out of 50
+epoch 177
+Train Loss: 0.217874, Acc: 0.729150, Dloss: 0.136432, Eloss: -0.134125, Gloss: -0.002307
+Test Loss: 1.578508, Acc: 0.487702
+topic: tensor([0.2006, 0.1987, 0.2030, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 39 out of 50
+epoch 178
+Train Loss: 0.218568, Acc: 0.732327, Dloss: 0.138827, Eloss: -0.136520, Gloss: -0.002306
+Test Loss: 1.579093, Acc: 0.482304
+topic: tensor([0.2009, 0.1986, 0.2029, 0.1981, 0.1996], device='cuda:0')
+EarlyStopping counter: 40 out of 50
+epoch 179
+Train Loss: 0.215926, Acc: 0.754567, Dloss: 0.140575, Eloss: -0.138267, Gloss: -0.002308
+Test Loss: 1.570349, Acc: 0.496101
+topic: tensor([0.2008, 0.1989, 0.2028, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 41 out of 50
+epoch 180
+Train Loss: 0.216799, Acc: 0.746624, Dloss: 0.140375, Eloss: -0.138064, Gloss: -0.002311
+Test Loss: 1.575384, Acc: 0.488902
+topic: tensor([0.2009, 0.1988, 0.2028, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 42 out of 50
+epoch 181
+Train Loss: 0.217236, Acc: 0.736299, Dloss: 0.140072, Eloss: -0.137758, Gloss: -0.002314
+Test Loss: 1.586833, Acc: 0.472106
+topic: tensor([0.2007, 0.1986, 0.2028, 0.1982, 0.1996], device='cuda:0')
+EarlyStopping counter: 43 out of 50
+epoch 182
+Train Loss: 0.216608, Acc: 0.749404, Dloss: 0.140192, Eloss: -0.137876, Gloss: -0.002316
+Test Loss: 1.575025, Acc: 0.486503
+topic: tensor([0.2009, 0.1989, 0.2028, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 44 out of 50
+epoch 183
+Train Loss: 0.216212, Acc: 0.748213, Dloss: 0.137911, Eloss: -0.135593, Gloss: -0.002318
+Test Loss: 1.562743, Acc: 0.505699
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1982, 0.1993], device='cuda:0')
+Saving model ...
+epoch 184
+Train Loss: 0.216746, Acc: 0.746624, Dloss: 0.137214, Eloss: -0.134895, Gloss: -0.002320
+Test Loss: 1.587844, Acc: 0.465507
+topic: tensor([0.2008, 0.1987, 0.2028, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 1 out of 50
+epoch 185
+Train Loss: 0.217015, Acc: 0.740270, Dloss: 0.138142, Eloss: -0.135821, Gloss: -0.002321
+Test Loss: 1.569665, Acc: 0.496701
+topic: tensor([0.2007, 0.1988, 0.2031, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 2 out of 50
+epoch 186
+Train Loss: 0.216785, Acc: 0.739873, Dloss: 0.138530, Eloss: -0.136208, Gloss: -0.002323
+Test Loss: 1.570926, Acc: 0.496101
+topic: tensor([0.2008, 0.1985, 0.2028, 0.1984, 0.1995], device='cuda:0')
+EarlyStopping counter: 3 out of 50
+epoch 187
+Train Loss: 0.216667, Acc: 0.747419, Dloss: 0.137658, Eloss: -0.135333, Gloss: -0.002325
+Test Loss: 1.577251, Acc: 0.484103
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1980, 0.1995], device='cuda:0')
+EarlyStopping counter: 4 out of 50
+epoch 188
+Train Loss: 0.216359, Acc: 0.749404, Dloss: 0.136958, Eloss: -0.134631, Gloss: -0.002327
+Test Loss: 1.573312, Acc: 0.487103
+topic: tensor([0.2008, 0.1987, 0.2028, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 5 out of 50
+epoch 189
+Train Loss: 0.215891, Acc: 0.753773, Dloss: 0.136310, Eloss: -0.133984, Gloss: -0.002327
+Test Loss: 1.583316, Acc: 0.475705
+topic: tensor([0.2008, 0.1987, 0.2029, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 6 out of 50
+epoch 190
+Train Loss: 0.216990, Acc: 0.742653, Dloss: 0.135091, Eloss: -0.132763, Gloss: -0.002328
+Test Loss: 1.580115, Acc: 0.478704
+topic: tensor([0.2010, 0.1988, 0.2028, 0.1980, 0.1994], device='cuda:0')
+EarlyStopping counter: 7 out of 50
+epoch 191
+Train Loss: 0.216666, Acc: 0.748610, Dloss: 0.134386, Eloss: -0.132058, Gloss: -0.002328
+Test Loss: 1.585340, Acc: 0.472106
+topic: tensor([0.2010, 0.1988, 0.2027, 0.1979, 0.1996], device='cuda:0')
+EarlyStopping counter: 8 out of 50
+epoch 192
+Train Loss: 0.216768, Acc: 0.747419, Dloss: 0.136156, Eloss: -0.133824, Gloss: -0.002331
+Test Loss: 1.580824, Acc: 0.478104
+topic: tensor([0.2004, 0.1988, 0.2030, 0.1983, 0.1996], device='cuda:0')
+EarlyStopping counter: 9 out of 50
+epoch 193
+Train Loss: 0.217108, Acc: 0.740667, Dloss: 0.138459, Eloss: -0.136127, Gloss: -0.002332
+Test Loss: 1.584239, Acc: 0.475705
+topic: tensor([0.2007, 0.1987, 0.2029, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 10 out of 50
+epoch 194
+Train Loss: 0.215747, Acc: 0.751390, Dloss: 0.141366, Eloss: -0.139033, Gloss: -0.002333
+Test Loss: 1.572804, Acc: 0.490102
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 11 out of 50
+epoch 195
+Train Loss: 0.216419, Acc: 0.749801, Dloss: 0.143896, Eloss: -0.141558, Gloss: -0.002338
+Test Loss: 1.578433, Acc: 0.487103
+topic: tensor([0.2008, 0.1986, 0.2030, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 12 out of 50
+epoch 196
+Train Loss: 0.216735, Acc: 0.741859, Dloss: 0.147867, Eloss: -0.145526, Gloss: -0.002340
+Test Loss: 1.586984, Acc: 0.466107
+topic: tensor([0.2007, 0.1987, 0.2031, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 13 out of 50
+epoch 197
+Train Loss: 0.216249, Acc: 0.749404, Dloss: 0.149494, Eloss: -0.147149, Gloss: -0.002345
+Test Loss: 1.586912, Acc: 0.476305
+topic: tensor([0.2008, 0.1985, 0.2028, 0.1983, 0.1997], device='cuda:0')
+EarlyStopping counter: 14 out of 50
+epoch 198
+Train Loss: 0.215466, Acc: 0.759730, Dloss: 0.146531, Eloss: -0.144182, Gloss: -0.002348
+Test Loss: 1.581355, Acc: 0.478704
+topic: tensor([0.2009, 0.1986, 0.2028, 0.1981, 0.1996], device='cuda:0')
+EarlyStopping counter: 15 out of 50
+epoch 199
+Train Loss: 0.215830, Acc: 0.749007, Dloss: 0.144304, Eloss: -0.141951, Gloss: -0.002353
+Test Loss: 1.577950, Acc: 0.481704
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1980, 0.1996], device='cuda:0')
+EarlyStopping counter: 16 out of 50
+epoch 200
+Train Loss: 0.215934, Acc: 0.749007, Dloss: 0.144719, Eloss: -0.142366, Gloss: -0.002353
+Test Loss: 1.578336, Acc: 0.485903
+topic: tensor([0.2007, 0.1989, 0.2028, 0.1982, 0.1993], device='cuda:0')
+EarlyStopping counter: 17 out of 50
+epoch 201
+Train Loss: 0.215715, Acc: 0.752184, Dloss: 0.146762, Eloss: -0.144407, Gloss: -0.002355
+Test Loss: 1.579029, Acc: 0.489502
+topic: tensor([0.2008, 0.1986, 0.2028, 0.1982, 0.1996], device='cuda:0')
+EarlyStopping counter: 18 out of 50
+epoch 202
+Train Loss: 0.216303, Acc: 0.742256, Dloss: 0.148211, Eloss: -0.145856, Gloss: -0.002355
+Test Loss: 1.581452, Acc: 0.484703
+topic: tensor([0.2009, 0.1988, 0.2029, 0.1981, 0.1993], device='cuda:0')
+EarlyStopping counter: 19 out of 50
+epoch 203
+Train Loss: 0.215414, Acc: 0.754567, Dloss: 0.150745, Eloss: -0.148389, Gloss: -0.002356
+Test Loss: 1.584237, Acc: 0.474505
+topic: tensor([0.2009, 0.1987, 0.2027, 0.1981, 0.1996], device='cuda:0')
+EarlyStopping counter: 20 out of 50
+epoch 204
+Train Loss: 0.215204, Acc: 0.756156, Dloss: 0.149339, Eloss: -0.146981, Gloss: -0.002358
+Test Loss: 1.582266, Acc: 0.478104
+topic: tensor([0.2009, 0.1987, 0.2028, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 21 out of 50
+epoch 205
+Train Loss: 0.215958, Acc: 0.749801, Dloss: 0.148323, Eloss: -0.145963, Gloss: -0.002360
+Test Loss: 1.571131, Acc: 0.490702
+topic: tensor([0.2009, 0.1987, 0.2028, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 22 out of 50
+epoch 206
+Train Loss: 0.215955, Acc: 0.750596, Dloss: 0.149251, Eloss: -0.146889, Gloss: -0.002361
+Test Loss: 1.580871, Acc: 0.482304
+topic: tensor([0.2008, 0.1987, 0.2029, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 23 out of 50
+epoch 207
+Train Loss: 0.215721, Acc: 0.748610, Dloss: 0.148556, Eloss: -0.146192, Gloss: -0.002364
+Test Loss: 1.576502, Acc: 0.487103
+topic: tensor([0.2008, 0.1987, 0.2028, 0.1983, 0.1994], device='cuda:0')
+EarlyStopping counter: 24 out of 50
+epoch 208
+Train Loss: 0.215974, Acc: 0.750596, Dloss: 0.145194, Eloss: -0.142828, Gloss: -0.002366
+Test Loss: 1.579334, Acc: 0.487103
+topic: tensor([0.2009, 0.1987, 0.2028, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 25 out of 50
+epoch 209
+Train Loss: 0.216904, Acc: 0.744241, Dloss: 0.142096, Eloss: -0.139728, Gloss: -0.002368
+Test Loss: 1.579275, Acc: 0.485303
+topic: tensor([0.2007, 0.1989, 0.2027, 0.1983, 0.1994], device='cuda:0')
+EarlyStopping counter: 26 out of 50
+epoch 210
+Train Loss: 0.215009, Acc: 0.761716, Dloss: 0.141766, Eloss: -0.139396, Gloss: -0.002371
+Test Loss: 1.572438, Acc: 0.492501
+topic: tensor([0.2006, 0.1985, 0.2030, 0.1984, 0.1995], device='cuda:0')
+EarlyStopping counter: 27 out of 50
+epoch 211
+Train Loss: 0.215657, Acc: 0.750199, Dloss: 0.141616, Eloss: -0.139243, Gloss: -0.002373
+Test Loss: 1.576121, Acc: 0.490102
+topic: tensor([0.2009, 0.1989, 0.2029, 0.1982, 0.1991], device='cuda:0')
+EarlyStopping counter: 28 out of 50
+epoch 212
+Train Loss: 0.215680, Acc: 0.752979, Dloss: 0.142606, Eloss: -0.140232, Gloss: -0.002374
+Test Loss: 1.578565, Acc: 0.478104
+topic: tensor([0.2008, 0.1988, 0.2027, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 29 out of 50
+epoch 213
+Train Loss: 0.215761, Acc: 0.752979, Dloss: 0.142473, Eloss: -0.140096, Gloss: -0.002377
+Test Loss: 1.569870, Acc: 0.497900
+topic: tensor([0.2007, 0.1985, 0.2030, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 30 out of 50
+epoch 214
+Train Loss: 0.216611, Acc: 0.743447, Dloss: 0.142747, Eloss: -0.140366, Gloss: -0.002381
+Test Loss: 1.573709, Acc: 0.493101
+topic: tensor([0.2010, 0.1987, 0.2027, 0.1982, 0.1995], device='cuda:0')
+EarlyStopping counter: 31 out of 50
+epoch 215
+Train Loss: 0.216230, Acc: 0.749801, Dloss: 0.142551, Eloss: -0.140167, Gloss: -0.002384
+Test Loss: 1.578209, Acc: 0.483503
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1980, 0.1995], device='cuda:0')
+EarlyStopping counter: 32 out of 50
+epoch 216
+Train Loss: 0.214537, Acc: 0.768070, Dloss: 0.145707, Eloss: -0.143320, Gloss: -0.002386
+Test Loss: 1.573697, Acc: 0.491902
+topic: tensor([0.2006, 0.1987, 0.2028, 0.1983, 0.1995], device='cuda:0')
+EarlyStopping counter: 33 out of 50
+epoch 217
+Train Loss: 0.215692, Acc: 0.754964, Dloss: 0.148457, Eloss: -0.146068, Gloss: -0.002389
+Test Loss: 1.578390, Acc: 0.488302
+topic: tensor([0.2011, 0.1988, 0.2029, 0.1982, 0.1991], device='cuda:0')
+EarlyStopping counter: 34 out of 50
+epoch 218
+Train Loss: 0.216244, Acc: 0.752581, Dloss: 0.147857, Eloss: -0.145465, Gloss: -0.002392
+Test Loss: 1.587987, Acc: 0.474505
+topic: tensor([0.2009, 0.1985, 0.2029, 0.1983, 0.1993], device='cuda:0')
+EarlyStopping counter: 35 out of 50
+epoch 219
+Train Loss: 0.215203, Acc: 0.757744, Dloss: 0.148026, Eloss: -0.145631, Gloss: -0.002396
+Test Loss: 1.587809, Acc: 0.470306
+topic: tensor([0.2010, 0.1987, 0.2028, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 36 out of 50
+epoch 220
+Train Loss: 0.215848, Acc: 0.753773, Dloss: 0.148272, Eloss: -0.145873, Gloss: -0.002399
+Test Loss: 1.575868, Acc: 0.485303
+topic: tensor([0.2009, 0.1986, 0.2030, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 37 out of 50
+epoch 221
+Train Loss: 0.214177, Acc: 0.763701, Dloss: 0.147867, Eloss: -0.145465, Gloss: -0.002402
+Test Loss: 1.568992, Acc: 0.500900
+topic: tensor([0.2008, 0.1987, 0.2028, 0.1982, 0.1996], device='cuda:0')
+EarlyStopping counter: 38 out of 50
+epoch 222
+Train Loss: 0.215088, Acc: 0.762510, Dloss: 0.148936, Eloss: -0.146533, Gloss: -0.002403
+Test Loss: 1.578570, Acc: 0.484703
+topic: tensor([0.2009, 0.1986, 0.2028, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 39 out of 50
+epoch 223
+Train Loss: 0.215164, Acc: 0.754964, Dloss: 0.149546, Eloss: -0.147141, Gloss: -0.002405
+Test Loss: 1.583764, Acc: 0.476305
+topic: tensor([0.2010, 0.1987, 0.2030, 0.1980, 0.1993], device='cuda:0')
+EarlyStopping counter: 40 out of 50
+epoch 224
+Train Loss: 0.214893, Acc: 0.756156, Dloss: 0.145081, Eloss: -0.142673, Gloss: -0.002407
+Test Loss: 1.575372, Acc: 0.484703
+topic: tensor([0.2009, 0.1987, 0.2029, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 41 out of 50
+epoch 225
+Train Loss: 0.214277, Acc: 0.771247, Dloss: 0.141637, Eloss: -0.139227, Gloss: -0.002409
+Test Loss: 1.571102, Acc: 0.496701
+topic: tensor([0.2010, 0.1986, 0.2029, 0.1981, 0.1995], device='cuda:0')
+EarlyStopping counter: 42 out of 50
+epoch 226
+Train Loss: 0.214835, Acc: 0.763304, Dloss: 0.137938, Eloss: -0.135527, Gloss: -0.002411
+Test Loss: 1.577783, Acc: 0.483503
+topic: tensor([0.2008, 0.1988, 0.2028, 0.1984, 0.1992], device='cuda:0')
+EarlyStopping counter: 43 out of 50
+epoch 227
+Train Loss: 0.214506, Acc: 0.758539, Dloss: 0.133492, Eloss: -0.131080, Gloss: -0.002412
+Test Loss: 1.582357, Acc: 0.476905
+topic: tensor([0.2010, 0.1987, 0.2029, 0.1981, 0.1994], device='cuda:0')
+EarlyStopping counter: 44 out of 50
+epoch 228
+Train Loss: 0.214403, Acc: 0.766878, Dloss: 0.132684, Eloss: -0.130273, Gloss: -0.002411
+Test Loss: 1.573394, Acc: 0.489502
+topic: tensor([0.2007, 0.1986, 0.2028, 0.1983, 0.1996], device='cuda:0')
+EarlyStopping counter: 45 out of 50
+epoch 229
+Train Loss: 0.214505, Acc: 0.762907, Dloss: 0.130963, Eloss: -0.128550, Gloss: -0.002413
+Test Loss: 1.568287, Acc: 0.499100
+topic: tensor([0.2010, 0.1986, 0.2030, 0.1979, 0.1995], device='cuda:0')
+EarlyStopping counter: 46 out of 50
+epoch 230
+Train Loss: 0.214923, Acc: 0.762907, Dloss: 0.128692, Eloss: -0.126275, Gloss: -0.002417
+Test Loss: 1.577898, Acc: 0.483503
+topic: tensor([0.2008, 0.1987, 0.2030, 0.1982, 0.1993], device='cuda:0')
+EarlyStopping counter: 47 out of 50
+epoch 231
+Train Loss: 0.214770, Acc: 0.767276, Dloss: 0.125459, Eloss: -0.123038, Gloss: -0.002420
+Test Loss: 1.576037, Acc: 0.488302
+topic: tensor([0.2009, 0.1987, 0.2028, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 48 out of 50
+epoch 232
+Train Loss: 0.214645, Acc: 0.756950, Dloss: 0.124564, Eloss: -0.122141, Gloss: -0.002423
+Test Loss: 1.584220, Acc: 0.476305
+topic: tensor([0.2007, 0.1988, 0.2029, 0.1982, 0.1994], device='cuda:0')
+EarlyStopping counter: 49 out of 50
+epoch 233
+Train Loss: 0.214635, Acc: 0.760524, Dloss: 0.125044, Eloss: -0.122621, Gloss: -0.002423
+Test Loss: 1.577867, Acc: 0.479304
+topic: tensor([0.2008, 0.1988, 0.2028, 0.1980, 0.1996], device='cuda:0')
+EarlyStopping counter: 50 out of 50
+Early stopping
+Model Saved!
